@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346191922590",
+    "project_id": "trainr-4f85a",
+    "storage_bucket": "trainr-4f85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346191922590:android:b3832164c14763378a828f",
+        "android_client_info": {
+          "package_name": "com.example.trainr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj087MGkZGhQt0Yh6OOuuVMxCNnPDS-ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

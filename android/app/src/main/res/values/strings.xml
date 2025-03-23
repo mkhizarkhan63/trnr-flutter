@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">463894376184667</string>
+    <string name="fb_login_protocol_scheme">fb463894376184667</string>
+    <string name="facebook_client_token">f5e8139bf081a9e2dffe12adc46d1708</string>
+    <string name="app_name">"Trainr"</string>
+
+</resources>
